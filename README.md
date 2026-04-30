@@ -32,5 +32,5 @@ npm run build:processor
 Готовый processor-bundle нужно положить в:
 
 ```text
-/Users/vladimirtitskiy/work/tcbpay/n-nominal-beneficaries/rules-ui
+{папка с кодом процессора}/rules-ui
 ```
